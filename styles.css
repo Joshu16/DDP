@@ -15,7 +15,6 @@ body {
 header {
   background: linear-gradient(to right, #ff0000, #8b0000);
   padding: 40px 20px;
-  border-bottom: 4px solid #fff;
 }
 
 header h1 {
@@ -59,8 +58,7 @@ main {
 }
 
 .imagenes img {
-  max-width: 200px;
-  height: auto;
+  height: 200px;
   transition: transform 0.3s ease;
 }
 
